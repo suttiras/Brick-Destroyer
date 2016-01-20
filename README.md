@@ -1,4 +1,4 @@
-# Brick-Destroyer
+# Brick-Destroyer/"Block Breaker"
 Project to study Unity
 
 A simple 2D game where you use a paddle to bounce a ball to hit the bricks.
